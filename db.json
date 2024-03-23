@@ -1,4 +1,241 @@
-"products": [
+{
+  "nav": [
+    {
+      "category": "New In",
+      "url": "/newin",
+      "img": "https://cdn-media.prettylittlething.com/studio/mega-menu/desktop/12.11.20/newin.jpg",
+      "subCategories": [
+        {
+          "title": "Sub Category 1",
+          "links": [
+            {
+              "name": "link 1",
+              "url": "/1"
+            },
+            {
+              "name": "link 2",
+              "url": "/2"
+            },
+            {
+              "name": "link 3",
+              "url": "/3"
+            },
+            {
+              "name": "link 4",
+              "url": "/4"
+            },
+            {
+              "name": "link 5",
+              "url": "/5"
+            },
+            {
+              "name": "link 6",
+              "url": "/6"
+            }
+          ]
+        },
+        {
+          "title": "Sub Category 2",
+          "links": [
+            {
+              "name": "link 1",
+              "url": "/1"
+            },
+            {
+              "name": "link 2",
+              "url": "/2"
+            },
+            {
+              "name": "link 3",
+              "url": "/3"
+            },
+            {
+              "name": "link 4",
+              "url": "/4"
+            }
+          ]
+        },
+        {
+          "title": "Sub Category 3",
+          "links": [
+            {
+              "name": "link 1",
+              "url": "/1"
+            },
+            {
+              "name": "link 2",
+              "url": "/2"
+            },
+            {
+              "name": "link 3",
+              "url": "/3"
+            },
+            {
+              "name": "link 4",
+              "url": "/4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sale",
+      "url": "/sale",
+      "img": "https://cdn-media.prettylittlething.com/studio/mega-menu/desktop/12.11.20/sale.jpg",
+      "subCategories": [
+        {
+          "title": "Sub Category 1",
+          "links": [
+            {
+              "name": "link 1",
+              "url": "/1"
+            },
+            {
+              "name": "link 2",
+              "url": "/2"
+            },
+            {
+              "name": "link 3",
+              "url": "/3"
+            },
+            {
+              "name": "link 4",
+              "url": "/4"
+            },
+            {
+              "name": "link 5",
+              "url": "/5"
+            },
+            {
+              "name": "link 6",
+              "url": "/6"
+            }
+          ]
+        },
+        {
+          "title": "Sub Category 2",
+          "links": [
+            {
+              "name": "link 1",
+              "url": "/1"
+            },
+            {
+              "name": "link 2",
+              "url": "/2"
+            },
+            {
+              "name": "link 3",
+              "url": "/3"
+            },
+            {
+              "name": "link 4",
+              "url": "/4"
+            }
+          ]
+        },
+        {
+          "title": "Sub Category 3",
+          "links": [
+            {
+              "name": "link 1",
+              "url": "/1"
+            },
+            {
+              "name": "link 2",
+              "url": "/2"
+            },
+            {
+              "name": "link 3",
+              "url": "/3"
+            },
+            {
+              "name": "link 4",
+              "url": "/4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Clothing",
+      "url": "/clothing",
+      "img": "https://cdn-media.prettylittlething.com/studio/mega-menu/desktop/12.11.20/clothing.jpg",
+      "subCategories": [
+        {
+          "title": "Sub Category 1",
+          "links": [
+            {
+              "name": "link 1",
+              "url": "/1"
+            },
+            {
+              "name": "link 2",
+              "url": "/2"
+            },
+            {
+              "name": "link 3",
+              "url": "/3"
+            },
+            {
+              "name": "link 4",
+              "url": "/4"
+            },
+            {
+              "name": "link 5",
+              "url": "/5"
+            },
+            {
+              "name": "link 6",
+              "url": "/6"
+            }
+          ]
+        },
+        {
+          "title": "Sub Category 2",
+          "links": [
+            {
+              "name": "link 1",
+              "url": "/1"
+            },
+            {
+              "name": "link 2",
+              "url": "/2"
+            },
+            {
+              "name": "link 3",
+              "url": "/3"
+            },
+            {
+              "name": "link 4",
+              "url": "/4"
+            }
+          ]
+        },
+        {
+          "title": "Sub Category 3",
+          "links": [
+            {
+              "name": "link 1",
+              "url": "/1"
+            },
+            {
+              "name": "link 2",
+              "url": "/2"
+            },
+            {
+              "name": "link 3",
+              "url": "/3"
+            },
+            {
+              "name": "link 4",
+              "url": "/4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": [
   {
     "id": 1,
     "colour": "Black",
@@ -27,4 +264,34 @@
     "price": 17,
     "img": "https://cdn-img.prettylittlething.com/e/a/2/8/ea283c251837bc87c10a53296f471ccf8a3e217e_cly0842_3.jpg?imwidth=600"
   }
-]
+],
+  "posts": [
+    {
+      "type": "faq",
+      "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dolor velit, lobortis et lectus sit amet, accumsan hendrerit dui. Aenean sed arcu in est bibendum gravida nec ac metus. Pellentesque in viverra lorem, et lacinia dolor. Sed eu dolor non erat sodales ullamcorper. In ultrices euismod ex, eu varius lacus dapibus sit amet. Integer rhoncus est mi, et sagittis metus rutrum vel. Curabitur consequat metus vitae massa dignissim interdum. Curabitur odio justo, commodo vel fermentum et, aliquam nec diam. Vestibulum et enim quis felis facilisis rhoncus. Proin posuere imperdiet lectus, gravida mattis odio imperdiet ut. Vestibulum a venenatis ligula. Aliquam tempor auctor quam sit amet tincidunt. Integer tempor leo quis dolor suscipit, ut pellentesque diam dignissim. Aliquam id risus id risus pulvinar luctus. Mauris tellus velit, faucibus ut aliquam vitae, maximus et ipsum. Praesent tortor tellus, rhoncus volutpat nisl in, blandit dictum lorem."
+    },
+    {
+      "type": "delivery",
+      "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dolor velit, lobortis et lectus sit amet, accumsan hendrerit dui. Aenean sed arcu in est bibendum gravida nec ac metus. Pellentesque in viverra lorem, et lacinia dolor. Sed eu dolor non erat sodales ullamcorper. In ultrices euismod ex, eu varius lacus dapibus sit amet. Integer rhoncus est mi, et sagittis metus rutrum vel. Curabitur consequat metus vitae massa dignissim interdum. Curabitur odio justo, commodo vel fermentum et, aliquam nec diam. Vestibulum et enim quis felis facilisis rhoncus. Proin posuere imperdiet lectus, gravida mattis odio imperdiet ut. Vestibulum a venenatis ligula. Aliquam tempor auctor quam sit amet tincidunt. Integer tempor leo quis dolor suscipit, ut pellentesque diam dignissim. Aliquam id risus id risus pulvinar luctus. Mauris tellus velit, faucibus ut aliquam vitae, maximus et ipsum. Praesent tortor tellus, rhoncus volutpat nisl in, blandit dictum lorem.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dolor velit, lobortis et lectus sit amet, accumsan hendrerit dui. Aenean sed arcu in est bibendum gravida nec ac metus. Pellentesque in viverra lorem, et lacinia dolor. Sed eu dolor non erat sodales ullamcorper. In ultrices euismod ex, eu varius lacus dapibus sit amet. Integer rhoncus est mi, et sagittis metus rutrum vel. Curabitur consequat metus vitae massa dignissim interdum. Curabitur odio justo, commodo vel fermentum et, aliquam nec diam. Vestibulum et enim quis felis facilisis rhoncus. Proin posuere imperdiet lectus, gravida mattis odio imperdiet ut. Vestibulum a venenatis ligula. Aliquam tempor auctor quam sit amet tincidunt. Integer tempor leo quis dolor suscipit, ut pellentesque diam dignissim. Aliquam id risus id risus pulvinar luctus. Mauris tellus velit, faucibus ut aliquam vitae, maximus et ipsum. Praesent tortor tellus, rhoncus volutpat nisl in, blandit dictum lorem."
+    }
+  ],
+  "menu": [
+    {
+      "name": "NEW IN",
+      "img": "https://cdn-media.prettylittlething.com/studio/mega-menu/desktop/12.11.20/newin.jpg",
+      "children": [
+        {
+          "name": "NEW IN",
+          "categories": ["View all", "New in today", "New in this week"]
+        },
+        {
+          "name": "PLT RANGES",
+          "categories": ["New in plus", "New in petite", "New in tall"]
+        }
+      ]
+    }
+  ],
+  "banners": {
+    "main": "PINK FRIDAY PREMIERE - UP TO 60% OFF EVERYTHING* - LIMITED TIME ONLY"
+  }
+}
