@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "colour": "Black",
+    "name": "Black Sheet Strappy Textured Glitter Bodycon Dress",
+    "price": 10,
+    "img": "https://cdn-img.prettylittlething.com/1/f/2/a/1f2a060240b1a37993da7a8db32468a48a70cc41_CLY8063_3.JPG"
+  },
+  {
+    "id": 2,
+    "colour": "Stone",
+    "name": "Stone Ribbed Strappy Cut Out Detail Bodycon Dress",
+    "price": 4,
+    "img": "https://cdn-img.prettylittlething.com/2/6/d/c/26dce8b7d75967aaa80355448edfe904f09beeb7_CMD2051_3.JPG"
+  },
+  {
+    "id": 3,
+    "colour": "Black",
+    "name": "Black Frill Tie Shoulder Bodycon Dress",
+    "price": 7.99,
+    "img": "https://cdn-img.prettylittlething.com/6/3/0/0/6300fd0e8c3ff6c42eab05a76fa65a42b4313656_cmd9186_3.jpg?imwidth=600"
+  },
+  {
+    "id": 5,
+    "colour": "Red",
+    "name": "Red Pin Stripe Belt T Shirt Dress",
+    "price": 17,
+    "img": "https://cdn-img.prettylittlething.com/e/a/2/8/ea283c251837bc87c10a53296f471ccf8a3e217e_cly0842_3.jpg?imwidth=600"
+  }
+]
